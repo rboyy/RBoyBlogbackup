@@ -1,16 +1,16 @@
 ---
-title: "一些正在用的开源软件分享"
+title: "我正在使用的软件"
 datePublished: Thu Feb 15 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clssmlaph000u09jm772tdlia
-slug: 5lia5lqb5q2j5zyo55so55qe5bya5rqq6l2v5lu25yig5lqr
+slug: softff
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708328201254/d0efb3f4-04e2-46de-8347-0d530f862301.jpeg
 tags: android, windows, tv, rboy
 
 ---
 
-实在是忍受不了国产软件Shit一样的优化和体积，本文分享一些目前正在使用的开源软件替代。
+>实在是忍受不了国产软件Shit一样的优化和体积，本文分享一些目前正在使用的开源软件替代。（新增一些非开源 会标识）
 
-## Android phone
+## Android Phone/Pad
 
 [PiliPala](https://github.com/guozhigq/pilipala?tab=readme-ov-file) - 使用Flutter开发的BiliBili第三方客户端。
 
@@ -26,6 +26,10 @@ tags: android, windows, tv, rboy
 
 [SmartTube](https://github.com/yuliskov/SmartTube) - 电视YouTube第三方客户端。
 
+[小白云盘TV](https://crazynoby.github.io/download.html) - 阿里云第三方客户端 推荐Pad/TV使用
+
 ## Windows
 
 [YouTube music](https://github.com/th-ch/youtube-music) - 去广告windows客户端，小设置很多。
+
+[小白羊网盘](https://github.com/gaozhangmin/aliyunpan) - 阿里云第三方客户端 推荐Windows/Mac使用
