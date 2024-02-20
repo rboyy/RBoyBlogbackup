@@ -34,8 +34,14 @@ tags: chrome-extension, 6l2v5lu25yig5lqr, rboy
 
 [https://github.com/TheKonka/instagram-download-browser-extension](https://github.com/TheKonka/instagram-download-browser-extension)
 
-### **05.破解类**
+### 05.工具类
 
-**SuperCopy 超级复制**
+网页截屏工具，可以自动截长屏。
+
+[Full Page Screen Capture](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
+
+### [**06.破解类**](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+
+[**SuperCopy 超级复**](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)**制**
 
 [https://enablecopy.com/](https://enablecopy.com/)
