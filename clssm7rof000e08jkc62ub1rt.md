@@ -1,5 +1,5 @@
 ---
-title: "浏览器拓展/脚本"
+title: "我常用的浏览器拓展"
 datePublished: Mon Jan 22 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clssm7rof000e08jkc62ub1rt
 slug: 5rwp6kei5zmo5out5bgvliemuacra
@@ -10,7 +10,7 @@ tags: chrome-extension, 6l2v5lu25yig5lqr, rboy
 
 ### **分享一些自用的浏览器扩展、脚本。**
 
-### **安全性第一Github开源优先，也会分享一些没有开源但十分好用的拓展（持续更新）**
+### **安全性第一Github开源优先，也会分享一些没有开源但十分好用的拓展**
 
 ### **02.AI助手**
 
