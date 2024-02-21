@@ -5,7 +5,7 @@ seoDescription: "蜂鸟舆情项目，蜂鸟舆情，挂机项目，瑞Boy，瑞
 datePublished: Thu Feb 15 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clssmq3dt000a09k27nra51uh
 slug: win-4
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708481774257/f0b97f25-4df4-4b03-a0e1-f1f15780f711.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708481833083/8b92f5a9-a14e-4fa7-a162-a309a05c4402.jpeg
 tags: rboy, 6jaf576k5qb
 
 ---
