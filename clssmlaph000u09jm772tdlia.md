@@ -8,7 +8,7 @@ tags: android, windows, tv, rboy
 
 ---
 
->实在是忍受不了国产软件Shit一样的优化和体积，本文分享一些目前正在使用的开源软件替代。（新增一些非开源 会标识）
+> 实在是忍受不了国产软件Shit一样的优化和体积，本文分享一些目前正在使用的开源软件替代。（新增一些非开源 会标识）
 
 ## Android Phone/Pad
 
@@ -33,3 +33,5 @@ tags: android, windows, tv, rboy
 [YouTube music](https://github.com/th-ch/youtube-music) - 去广告windows客户端，小设置很多。
 
 [小白羊网盘](https://github.com/gaozhangmin/aliyunpan) - 阿里云第三方客户端 推荐Windows/Mac使用
+
+ [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 一个用于显示当前网速、CPU及内存利用率的 Windows 桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
