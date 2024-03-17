@@ -3,7 +3,7 @@ title: "折腾日记01.装了一台hp品牌机黑群晖"
 datePublished: Sun Mar 17 2024 16:11:51 GMT+0000 (Coordinated Universal Time)
 cuid: cltvpsmn3000308jwgtjyd5k8
 slug: 01hp
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710692575173/4eaba534-1630-4ff5-86ee-8486645dc607.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710692766141/bb7d05a6-929f-4dfa-b3cf-2990dfeb701a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1710691713474/f557c904-2195-4ef1-b3c8-4fc6daabeebd.jpeg
 tags: nas
 
