@@ -8,9 +8,7 @@ tags: nas
 
 ---
 
-上一台NAS还是蜗牛星际 自从咸鱼出掉之后发现自己还是需要一台24小时运行的设备
-
-![微信截图_20240317234222](https://jsd.cdn.zzko.cn/gh/rboyy/picx-images-hosting@master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240317234222.77db90sv47.jpg align="left")
+`上一台NAS还是蜗牛星际 自从咸鱼出掉之后发现自己还是需要一台24小时运行的设备`
 
 ## HP EliteDesk 800 G3 TWR准系统
 
