@@ -18,7 +18,9 @@ tags: rboy, 6jaf576k5qb
 
 ![](https://jsd.cdn.zzko.cn/gh/rboyy/picx-images-hosting@master/20240216/1708061394556.jpg align="left")
 
-### 下载地址： https://www.fengniaoyq.online/
+### 官网： https://www.fengniaoyq.online/
+
+客户端下载地址：[https://static.fengniaoyq.online/pkg/fnyq/fnyq-1.0.8.exe](https://static.fengniaoyq.online/pkg/fnyq/fnyq-1.0.8.exe)
 
 注册邀请码如下（任选其一即可）
 
