@@ -36,4 +36,16 @@ tags: rboy, 6jaf576k5qb
 
 按照教程设置即可
 
+速通教程:
+
+1先添加默认模板
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721629249799/a557e31d-76d3-4d16-9b75-4e2271de2f59.png align="center")
+
+2.新增任务 从上到下选择，登录完等待几秒会自动关闭窗口，最后点提交就好了。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721629313492/18681328-4cfd-4d3a-a5e4-a59e8b2f944b.png align="center")
+
+最后： 如果不懂详细教程点这里。
+
 ![](https://jsd.cdn.zzko.cn/gh/rboyy/picx-images-hosting@master/20240216/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20240216133811.png align="left")
