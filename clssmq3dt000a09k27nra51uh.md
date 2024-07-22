@@ -1,5 +1,5 @@
 ---
-title: "闲置云电脑/本地Win利用蜂鸟舆情挂机获取收益 单号日收益4+元"
+title: "闲置云电脑/本地Win利用蜂鸟舆情挂机获取收益 单号日收益4+元（好消息来袭，全面开放注册了）"
 seoTitle: "闲置云电脑/本地Win利用蜂鸟舆情挂机获取收益 单号日收益4+元"
 seoDescription: "蜂鸟舆情项目，蜂鸟舆情，挂机项目，瑞Boy，瑞Boy的Blog"
 datePublished: Thu Feb 15 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
@@ -20,17 +20,19 @@ tags: rboy, 6jaf576k5qb
 
 ### 官网： https://www.fengniaoyq.online/
 
-客户端下载地址：[https://static.fengniaoyq.online/pkg/fnyq/fnyq-1.0.8.exe](https://static.fengniaoyq.online/pkg/fnyq/fnyq-1.0.8.exe)
+下载客户端地址：[https://www.yqndll.com/](https://www.yqndll.com/)
+
+备用地址1：[http://35.220.132.247:8080/](http://35.220.132.247:8080/)
+
+备用地址2：[https://gpwuxt64xh.feishu.cn/docx/GJNed82iOokGu8xsRDPcA33onDc](https://gpwuxt64xh.feishu.cn/docx/GJNed82iOokGu8xsRDPcA33onDc)
 
 注册邀请码如下（任选其一即可）
 
-**附带注册邀请码，目前是公测阶段，没有邀请码无法注册：LH8ALTN6**
+邀请码：KZSAK3MJ
 
-**附带注册邀请码，目前是公测阶段，没有邀请码无法注册：KZSAK3MJ**
+邀请码：LH8ALTN6
 
-**附带注册邀请码，目前是公测阶段，没有邀请码无法注册：LH8ALTN6**
-
-淘宝详细任务最稳，有时候回弹验证码，需要手动划一下。
+淘宝详细任务最稳，有时候会弹验证码，手动划一下。
 
 按照教程设置即可
 
